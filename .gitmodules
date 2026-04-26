@@ -1,0 +1,6 @@
+[submodule "rl_memory_agent"]
+	path = rl_memory_agent
+	url = https://github.com/AbouOpenSource/rl_memory_agent.git
+[submodule "simgrid_cluster_env"]
+	path = simgrid_cluster_env
+	url = https://github.com/AbouOpenSource/simgrid_cluster_env.git
